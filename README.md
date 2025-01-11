@@ -1,0 +1,2 @@
+# alintilar
+Alıntılar
