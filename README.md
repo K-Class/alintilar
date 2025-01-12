@@ -1,2 +1,2 @@
 # alintilar
-Alıntılar
+ Alıntılar
