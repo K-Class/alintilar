@@ -1,15 +1,29 @@
 {
   "name": "alinti-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "node",
+    "alıntılar"
+  ],
+  "author": "Mehmet Keçeci",
+  "license": "MIT",
+  "description": "Alıntılar",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "fastify": "^5.2.1",
+    "handlebars": "^4.7.8",
+    "@fastify/formbody": "^8.0.2",
+    "@fastify/static": "^8.0.4",
+    "@fastify/view": "^10.0.2"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/alintilar"
   }
 }
