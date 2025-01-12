@@ -1,0 +1,10 @@
+{
+	"id": "alintilar",
+	"name": "Alıntılar",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "Editöre rastgele alıntılar ekler",
+	"author": "Mehmet Keçeci",
+	"authorUrl": "https://orcid.org/0000-0001-9937-9839",
+	"isDesktopOnly": false
+}

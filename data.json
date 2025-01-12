@@ -1,0 +1,10 @@
+{
+  "quoteFormat": ">[!quote] Alıntılar\n\t> {content}\n> &mdash; <cite>{author}</cite>",
+  "quoteTagFormat": "> ---\n> {tags}\n",
+  "quoteTemplatePlaceholder": "{{Alnt}}",
+  "filteredQuoteTemplatePlaceholder": "{{fAlnt}}",
+  "showTags": true,
+  "showTagHash": true,
+  "placeholderInterval": 5,
+  "filter": []
+}
