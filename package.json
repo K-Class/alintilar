@@ -4,8 +4,6 @@
   "description": "Editöre rastgele alıntılar ekler",
   "main": "main.js",
   "scripts": {
-    "dev": "esbuild src/main.ts --bundle --external:obsidian --outdir=.  --target=es2016 --format=cjs --sourcemap=inline --watch",
-    "build": "esbuild src/main.ts --bundle --external:obsidian --outdir=.  --target=es2016 --format=cjs",
     "start": "node server.js"
   },
   "engines": {
