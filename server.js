@@ -19,5 +19,5 @@ app.get('/alinti/random', (req, res) => {
 
 // Sunucuyu başlat
 app.listen(port, () => {
-  console.log(`Sunucu https://glitch.com/edit/#!/alintilar:${port} adresinde çalışıyor`);
+  console.log(`Sunucu ***:${port} adresinde çalışıyor`);
 });
