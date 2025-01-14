@@ -4,7 +4,8 @@
   "description": "Editöre rastgele alıntılar ekler",
   "main": "main.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo 'No build step required for this project.'"
   },
   "engines": {
     "node": "22.x"
